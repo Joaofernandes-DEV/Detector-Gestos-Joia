@@ -48,30 +48,6 @@ Este projeto é construído primariamente com as seguintes bibliotecas:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-## 📂 Estrutura do Projeto
-
-O repositório está organizado da seguinte forma para garantir manutenibilidade:
-
-/Detector-Gestos-Joia
-│
-├── 📁 assets
-│ ├── joia.png
-│ └── Contém todos os arquivos de mídia (imagens, etc.)
-│
-├── 📁 src
-│ ├── main.py
-│ └── Código-fonte principal da aplicação
-│
-├── .gitignore # Especifica arquivos a serem ignorados pelo Git
-├── CONTRIBUTING.md # Diretrizes para contribuição (opcional)
-├── LICENSE # Licença open-source do projeto (opcional)
-├── requirements.txt # Lista de dependências Python
-└── README.md # Esta documentação
-
----
-
 ## 🚀 Instalação e Execução
 
 Siga os passos abaixo para executar o projeto em sua máquina local.
