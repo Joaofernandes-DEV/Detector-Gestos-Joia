@@ -13,7 +13,7 @@ Ao reconhecer o gesto, o aplicativo sobrepõe uma imagem customizável na tela, 
 
 ### 📷 Demonstração
 
-> ![Demo do Projeto](assets/video_DetectorDeJoias.mp4)
+https://github.com/user-attachments/assets/57ef21aa-aec0-4ba1-9252-5070dbb7517e
 
 ---
 
